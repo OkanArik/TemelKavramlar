@@ -1,4 +1,4 @@
-# VeriYapilariveAlgoritmalar
+# Temel Kavramlar
 ---
 ## Algoritma Nedir?
 Algoritma Nedir?
