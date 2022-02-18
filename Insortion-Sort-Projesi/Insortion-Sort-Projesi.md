@@ -1,6 +1,6 @@
-Proje 1
+ <h1>Proje 1</h1>
 
-Örnek 1)[22,27,16,2,18,6] -> Insertion Sort
+<h2>Örnek 1)[22,27,16,2,18,6] -> Insertion Sort<br></h1>
 
 1)Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 2)Big-O gösterimini yazınız.
