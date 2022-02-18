@@ -38,6 +38,6 @@ Bit: Binary Digit'in kısaltılmış halidir.Binary Digit(Bit) ikili basamak(han
 Byte, sekiz adet bitin yanyana dizilmiş hali olarak düşünülebilir.Bir byte ile 2^8 yani 256 adet farklı durum ifade edilebilir.
 
 ## Recursion
-Bir problemin alt problemlere bölünüp hesaplanmasına, nerde son bulacağımı belirttiğimiz ifadelere recursion (Özyineleme) diyoruz.<br>
+Bir problemin alt problemlere bölünüp hesaplanmasına, nerde son bulacağını belirttiğimiz ifadelere recursion (Özyineleme) diyoruz.<br>
 
 
